@@ -1,9 +1,5 @@
-# DIO - Trilha Java Básico
-www.dio.me
-
-#### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
-
+![](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)
+> Desafio realizado para o bootcamp - Trilha JAVA da DIO / 2024]
 ## Sintaxe - Desafio
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
